@@ -1,0 +1,13 @@
+Project plan kedepannya akan belajar mengenai bahasa pemrograman sebagai berikut:
+1. Jadwal belajar bahasa pemrograman
+SENIN: PHP
+SELASA: PYTHON
+RABU: JAVASCRIPT
+KAMIS: JAVA
+JUM'AT: REVIEW MATERI PEMBELAJARAN ATAU MENCARI WEBSITE DAN ONLINE COURSE BERMANFAAT
+SABTU: C#
+MINGGU: REST
+
+2. Konsisten untuk membuat konten pembelajaran ataupun informasi terkait yang update di kalangan masyarakat
+
+Sekian dari project plan yang akan diterapkan sesudah repo ini dibuat. Sekian dan terimakasih.
