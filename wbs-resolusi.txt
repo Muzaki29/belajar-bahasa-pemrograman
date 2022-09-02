@@ -8,6 +8,8 @@ JUM'AT: REVIEW MATERI PEMBELAJARAN ATAU MENCARI WEBSITE DAN ONLINE COURSE BERMAN
 SABTU: C#
 MINGGU: REST
 
-2. Konsisten untuk membuat konten pembelajaran ataupun informasi terkait yang update di kalangan masyarakat
+2. Konsisten untuk membuat konten pembelajaran ataupun informasi terkait yang update di kalangan masyarakat.
+
+3. Berusaha penuh semangat dan tertantang untuk memperbaiki sebuah perilaku dan keadaan sekitar.
 
 Sekian dari project plan yang akan diterapkan sesudah repo ini dibuat. Sekian dan terimakasih.
